@@ -241,7 +241,7 @@
 
         // method untuk menentukan ipk mahasiswa
         function ipkMhs() {
-            // ambil nilai di formBeasiswa yg memiliki id status_kepemilikan_rumah
+            // ambil nilai di formBeasiswa 
             var selectElement = document.getElementById("nim");
             var ipkInput = document.getElementById("ipk");
             var pilihanBeasiswa = document.getElementById("pilihan_beasiswa");
